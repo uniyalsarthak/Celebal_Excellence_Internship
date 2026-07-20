@@ -1,0 +1,11 @@
+# Environment variables (contains your real API key — never commit this)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
